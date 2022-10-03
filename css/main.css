@@ -37,6 +37,9 @@ a {
 /* Start Header */
 .navbar {
     box-shadow: 1px 2px 5px #4444442f;
+    position: fixed;
+    z-index: 100;
+    width: 100%;
 }
 .navbar-brand img {
     width: 50px;
